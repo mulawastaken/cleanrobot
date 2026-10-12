@@ -33,6 +33,4 @@ Each `occupied` variant is a single prop with the robot and dock already aligned
 - `mula_prop_cleanrobot` - robot with the rear service ports.
 ![Robot](https://r2.fivemanage.com/cSLjIkKVIp1MD8BFZ9U1L/cleanrobot.png)
 
-##Let me know if you run into any issues or please open an issue.
-
-###Leave a star
+**Let me know if you run into any issues or please open an issue and give a star**
