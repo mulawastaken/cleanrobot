@@ -3,7 +3,7 @@ game 'gta5'
 
 author 'mula'
 description 'ThriftEX Cleaning Robot'
-version '1.0.0'
+version '0.1.0'
 
 files { 'stream/*.ytyp' }
 
