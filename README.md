@@ -1,7 +1,7 @@
 # ThriftEX Cleaning Robot
 
 Lore-friendly robot vacuum and dock props for FiveM, featuring ThriftEX (GTA branding).   
-**Kinda still need some more work, but it looks good in game already 😊**
+**Nothing special, but it does looks good in game 😊**
 
 Each `occupied` variant is a single prop with the robot and dock already aligned. Place only the combined model.
 
