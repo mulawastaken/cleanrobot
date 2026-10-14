@@ -2,7 +2,7 @@ fx_version 'cerulean'
 game 'gta5'
 
 author 'ThriftEX'
-description 'White SweepBot and twin tank dock'
+description 'ThriftEX Cleaning Robot'
 version '1.1.0'
 
 files { 'stream/*.ytyp' }
